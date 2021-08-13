@@ -1,7 +1,7 @@
 {
   "name": "Evolene CI",
   "description": "Evolene CI workflow template.",
-  "iconName": "example-icon",
+  "iconName": "kth",
   "filePatterns": [
     "^Dockerfile"
   ]
